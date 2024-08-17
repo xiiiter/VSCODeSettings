@@ -86,7 +86,7 @@
     "editor.accessibilitySupport": "off",
     "explorer.confirmDragAndDrop": false,
     "terminal.integrated.fontSize": 14,
-    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "terminal.integrated.fontFamily": "JetBrains Mono",
     "editor.codeActionsOnSave": {
       "source.fixAll.eslint": "explicit"
     },
@@ -181,5 +181,8 @@
     "editor.tokenColorCustomizations": {
       "textMateRules": []
     },
-    "workbench.layoutControl.enabled": false
+    "workbench.layoutControl.enabled": false,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 0,
+    "workbench.colorTheme": "Min Dark"
   }
